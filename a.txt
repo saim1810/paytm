@@ -1,0 +1,2 @@
+satya is good boy
+print("hello world")
